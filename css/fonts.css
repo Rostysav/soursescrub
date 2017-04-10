@@ -1,0 +1,17 @@
+/*Belinda Regular*/
+@font-face{
+	font-family: 'BelindaRegular';
+	src: url("../fonts/BelindaRegular/Belinda-Regular.ttf");
+	src: url("../fonts/BelindaRegular/Belinda-Regular.eot");
+	src: url("../fonts/BelindaRegular/Belinda-Regular.woff");
+}
+/*PTSansRegular*/
+@font-face{
+	font-family: "PTSansRegular";
+	src: url("../fonts/PTSansRegular/pt-sans-regular.ttf");
+}
+/*PTSansBold*/
+@font-face{
+	font-family: "PTSansBold";
+	src: url("../fonts/PTSansBold/pt-sans-bold.ttf");
+}
